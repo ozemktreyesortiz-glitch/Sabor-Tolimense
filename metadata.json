@@ -1,0 +1,6 @@
+{
+  "name": "Sabor Tolimense",
+  "description": "Interactive digital menu and food ordering system for Sabor Tolimense restaurant, featuring authentic Colombian Tolimense cuisine and our official rabbit mascot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
